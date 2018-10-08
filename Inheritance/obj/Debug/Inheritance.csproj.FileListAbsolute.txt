@@ -1,0 +1,7 @@
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\ильяс сабитов\source\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
